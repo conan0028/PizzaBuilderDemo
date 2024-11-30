@@ -43,18 +43,20 @@ A implementação segue os princípios discutidos na disciplina CMP1063, enfatiz
 ```
 2. Instale dependências:
 ```bash
-	npm install
+npm install
 ```
 3. Compile o projeto:
 ```bash
-	tsc
+tsc
 ```
 4. Execute o arquivo principal: 
 ```bash
-	node dist/index.js
+node dist/index.js
 ```
 5. Acompanhe a saída no console para verificar as pizzas criadas.
-###Exemplo de saÍda:
+
+**Exemplo de saÍda**:
+
 ```txt
 Pizza Margherita:
 - Tamanho: Grande
